@@ -1,0 +1,7 @@
+Resultados:
+
+7
+10.5
+10.0
+Variavel 4 > 10.0.
+Variavel 5 < 10.0.
