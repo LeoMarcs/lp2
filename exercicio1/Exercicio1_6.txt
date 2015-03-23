@@ -1,0 +1,3 @@
+Em ambos o resultado da divisão foi 0.0. No exercício 3, os valores retornado eram inteiros e não possuiam, mesmo que zero, 
+parte decimal. 
+Já nos exercícios 4 e 5, os valores, mesmo inteiros, possuíam parte decimal, que era zero. Ex: 2700.0.
