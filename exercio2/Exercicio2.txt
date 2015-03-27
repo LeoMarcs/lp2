@@ -1,0 +1,1 @@
+New: tem como função instanciar um objeto, ou seja, alocar um espaço na memória para que um objeto seja guardado. 
