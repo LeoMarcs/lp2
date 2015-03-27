@@ -1,0 +1,9 @@
+TAD: 
+
+Classe: é um Tipo Abstrato de Dados. Não é materalizado. Uma classe não ocupa espaço na memória, mas possibilita que nela se
+instancie um objeto. 
+
+Objeto: é a materialização da Classe. Objetos guardam informações - as que foram definidas nas classes em que foram instancia-
+dos. Eles, sim, ocupam espaço na memória. 
+
+Mensagens (métodos): métodos executam ações dentro de uma classe. 
